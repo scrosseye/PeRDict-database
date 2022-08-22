@@ -1,4 +1,4 @@
-# PeRDict-database-and-analyses
+# PeRDict-database
 The Perfect Rhymes Dictionary Database is housed here
 
 We used the CMU Pronouncing Dictionary (the CMUdict) to develop the Perfect Rhymes Dictionary (PeRDict). The CMUdict is an open-source pronouncing dictionary developed at Carnegie Mellon University to assess rhymes. The CMUdict provides a mapping between a word and that word’s phonemes for 133,779 words in the English language. However, in practice, many of these words are extremely rare. Because of the rarity of many words in the CMUdict, we elected to only keep those words that overlap between the CMUdict and the English Lexicon Project (ELP). The ELP comprises 79,672 words of which 47,885 words were shared with the CMUdict. These ~48,000 words were selected for initial inclusion into PeRDict.
